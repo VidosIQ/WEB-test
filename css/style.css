@@ -46,7 +46,7 @@ body {
 	color: #FFFFFF;
 	font-style: italic;
 	text-transform: uppercase;
-	border-radius: 5px;
+	border-radius: 2px;
 }
 
 .head_link {
@@ -63,7 +63,20 @@ body {
 }
 
 
+.li_btn_container {
+	background: #E3B873;
+	position: relative;
+	/*box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.2);
+	text-transform: uppercase; */
+	width: 207px;
+	height: 51px;
+	color: #FFFFFF;
+	font-style: normal;
+	box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.3);
+	/*box-sizing: border-box;*/
+	border-radius: 2px;
 }
+
 
 /* А нужен ли класс/
 .page1_main {
